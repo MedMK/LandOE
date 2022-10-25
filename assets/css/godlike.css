@@ -3652,12 +3652,12 @@ img.rounded {
 
 .nk-page-border .nk-page-border-t {
     top: 0;
-    background-image: url("../images/border-top.png");
+    background-image: url("https://res.cloudinary.com/dhbejijc4/image/upload/v1666688299/LEO/border-top_kjmhac.png");
 }
 
 .nk-page-border .nk-page-border-b {
     bottom: 0;
-    background-image: url("../images/border-bottom.png");
+    background-image: url("https://res.cloudinary.com/dhbejijc4/image/upload/v1666688299/LEO/border-bottom_degeri.png");
 }
 
 .nk-page-border .nk-page-border-r,
@@ -3669,12 +3669,12 @@ img.rounded {
 
 .nk-page-border .nk-page-border-r {
     right: 0;
-    background-image: url("../images/border-right.png");
+    background-image: url("https://res.cloudinary.com/dhbejijc4/image/upload/v1666688299/LEO/border-right_yrpuup.png");
 }
 
 .nk-page-border .nk-page-border-l {
     left: 0;
-    background-image: url("../images/border-left.png");
+    background-image: url("https://res.cloudinary.com/dhbejijc4/image/upload/v1666688299/LEO/border-left_m5yhv5.png");
 }
 
 @media (max-width: 575px) {
@@ -4557,7 +4557,7 @@ img.rounded {
     right: 0;
     bottom: 0;
     left: 0;
-    cursor: url("../images/cursor-nav-close.svg") 24 24, pointer;
+    cursor: url("https://res.cloudinary.com/dhbejijc4/image/upload/v1666688300/LEO/cursor-nav-close_inhoae.png") 24 24, pointer;
     background-color: #0e0e0e;
     opacity: 0;
     z-index: 1001;
@@ -7777,7 +7777,7 @@ body.nk-body-overflow .nk-share-buttons {
 
 .flickity-enabled.is-draggable .flickity-viewport,
 .flickity-enabled.is-draggable .flickity-viewport.is-pointer-down {
-    cursor: url("../images/cursor-drag.svg") 24 24, pointer;
+    cursor: url("https://res.cloudinary.com/dhbejijc4/image/upload/v1666688299/LEO/cursor-drag_lx3r9a.svg") 24 24, pointer;
 }
 
 /* Style 1 */
@@ -8729,7 +8729,7 @@ body.nk-body-overflow .nk-share-buttons {
     padding: 40px;
     color: #fff;
     text-align: right;
-    cursor: url("../images/cursor-nav-close.svg") 24 24, pointer;
+    cursor: url("https://res.cloudinary.com/dhbejijc4/image/upload/v1666688300/LEO/cursor-nav-close_inhoae.png") 24 24, pointer;
     z-index: -1;
 }
 
@@ -11581,7 +11581,7 @@ span.active > .nk-icon-toggle, .nk-icon-toggle.active {
  -------------------------------------------------------------------*/
 .nk-popup-gallery .nk-gallery-item,
 .nk-video-gallery .nk-gallery-item {
-    cursor: url("../images/cursor-gallery-item.svg") 24 24, pointer;
+    cursor: url("https://res.cloudinary.com/dhbejijc4/image/upload/v1666688300/LEO/cursor-gallery-item_bg824m.png") 24 24, pointer;
 }
 
 .nk-popup-gallery .nk-gallery-item-box,
